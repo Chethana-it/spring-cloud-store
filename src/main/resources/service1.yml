@@ -1,0 +1,2 @@
+service:
+  greeting: Hello Service come from service 1
